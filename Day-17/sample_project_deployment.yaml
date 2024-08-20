@@ -8,6 +8,7 @@ services:
       - "8001-8005:8001"
     volumes:
       - my_django_volume:/app
+      ihfsdiuf
   db:
     image: mysql
     ports:
